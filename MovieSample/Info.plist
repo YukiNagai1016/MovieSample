@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>ビデオ撮影のためにカメラを使用します</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>ビデオ撮影のためにカメラを使用します</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>撮影したビデオを保存するために写真ライブラリにアクセスします</string>
 </dict>
 </plist>
